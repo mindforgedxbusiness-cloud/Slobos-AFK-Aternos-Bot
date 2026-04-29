@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vtcolany.aternos.me",
-    "port": 27279,
+    "ip": "bluedanio.aternos.host:43439",
+    "port": 43439,
     "version": "",
     "try-creative": false
   },
